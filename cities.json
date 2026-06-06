@@ -1,0 +1,72 @@
+[
+  {
+    "cityId": 1,
+    "cityName": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "population": 7090000
+  },
+  {
+    "cityId": 2,
+    "cityName": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "population": 8440000
+  },
+  {
+    "cityId": 3,
+    "cityName": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "population": 6800000
+  },
+  {
+    "cityId": 4,
+    "cityName": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "population": 12400000
+  },
+  {
+    "cityId": 5,
+    "cityName": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "population": 16700000
+  },
+  {
+    "cityId": 6,
+    "cityName": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "population": 4490000
+  },
+  {
+    "cityId": 7,
+    "cityName": "Pune",
+    "state": "Maharashtra",
+    "country": "India",
+    "population": 3120000
+  },
+  {
+    "cityId": 8,
+    "cityName": "Ahmedabad",
+    "state": "Gujarat",
+    "country": "India",
+    "population": 5570000
+  },
+  {
+    "cityId": 9,
+    "cityName": "Jaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "population": 3040000
+  },
+  {
+    "cityId": 10,
+    "cityName": "Coimbatore",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "population": 1610000
+  }
+]
